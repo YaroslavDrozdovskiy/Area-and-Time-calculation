@@ -6,4 +6,13 @@ ___________
 1. скачать [LabVIEW 2014](https://yadi.sk/d/sk9JE_kXXVoyNA) (ссылка на яндекс диск)
 2. установить LabVIEW 2014 для 32-х и 64-х битной системы
 3. Установить модули NI Vision Acquisition 2014 и NI Vision Development Module 2014 
+___________
+
+В качестве демонстрации доступно видео по ссылке https://drive.google.com/file/d/1NRe0RVT9aG5E6L_bQFniQhW_kPTlkHPo/view?usp=sharing, затем
+* Необходимо запустить программу, выбрать соответствуещее видео,
+* Приостановить прокрутку видео и разбить на кадры кнопкой Play.
+* нажать на зеленую кнопку Binary, и выставить на панеле **Range** значение *lower value = 185* и *upper value = 255*. 
+* С помощью красной рамки выделить соответствующую область домена 
+* Выбрать *initial frame* и *final frame*
+* Нажать на кнопку Analyse.
 
