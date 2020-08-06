@@ -1,4 +1,4 @@
-# Area-and-Time-calculation
+# Domain Velocity Calculation
 Прибор, написанный в среде LabVIEW для измерения скорости движения доменных границ
 ___________
 
